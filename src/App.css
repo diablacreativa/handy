@@ -17,6 +17,7 @@
 
 :root {
   /* Typography */
+  font-family: "Aptos", "Segoe UI Variable", "Segoe UI", sans-serif;
   font-size: 15px;
   line-height: 24px;
   font-weight: 400;
@@ -107,4 +108,9 @@
   fill: var(--color-logo-stroke);
   stroke: var(--color-logo-stroke);
   stroke-width: 1;
+}
+
+h1, h2, h3, .brand-wordmark {
+  font-family: "Palatino Linotype", "Book Antiqua", Georgia, serif;
+  letter-spacing: -0.025em;
 }

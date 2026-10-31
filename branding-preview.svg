@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <defs>
+    <linearGradient id="gold" x2="1" y2="1"><stop stop-color="#f4e7bb"/><stop offset=".48" stop-color="#d5b66c"/><stop offset="1" stop-color="#8b672a"/></linearGradient>
+    <linearGradient id="panel" x2="1" y2="1"><stop stop-color="#30382d"/><stop offset="1" stop-color="#20241f"/></linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="#f7f5ee"/>
+  <rect x="0" width="1200" height="30" fill="#20241f"/>
+  <text x="70" y="85" font-family="Segoe UI, sans-serif" font-size="18" letter-spacing="4" fill="#647443">HANDY · NUEVA IDENTIDAD</text>
+  <rect x="70" y="120" width="1060" height="475" rx="30" fill="url(#panel)"/>
+  <rect x="120" y="190" width="112" height="112" rx="28" fill="#39472b"/>
+  <path d="M151 214v63m50-63v63m-50-32h50" stroke="url(#gold)" stroke-width="10" stroke-linecap="round" fill="none"/>
+  <circle cx="209" cy="206" r="5" fill="#a8b77b"/>
+  <text x="265" y="283" font-family="Palatino Linotype, Georgia, serif" font-size="105" letter-spacing="-6" fill="#eeeae0">Handy</text>
+  <text x="122" y="367" font-family="Palatino Linotype, Georgia, serif" font-size="35" fill="#d5b66c">Tu voz, con elegancia.</text>
+  <text x="122" y="411" font-family="Segoe UI, sans-serif" font-size="20" fill="#c7cec0">Dicta donde escribes. Di «aleluya» para empezar.</text>
+  <rect x="122" y="467" width="240" height="60" rx="30" fill="#647443"/>
+  <circle cx="157" cy="497" r="7" fill="#d5b66c"/>
+  <text x="180" y="503" font-family="Segoe UI, sans-serif" font-size="18" fill="#f7f5ee">Escuchando</text>
+  <rect x="70" y="622" width="58" height="58" rx="14" fill="#20241f"/>
+  <rect x="148" y="622" width="58" height="58" rx="14" fill="#d5b66c"/>
+  <rect x="226" y="622" width="58" height="58" rx="14" fill="#c7cec0"/>
+  <rect x="304" y="622" width="58" height="58" rx="14" fill="#647443"/>
+  <text x="400" y="658" font-family="Segoe UI, sans-serif" font-size="17" fill="#292a22">Carbón · oro · plata · aguacate</text>
+</svg>
